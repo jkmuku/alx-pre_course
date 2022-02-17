@@ -1,0 +1,14 @@
+INPUT a, b, c
+IF a<b<c
+ PRINT a, b, c
+ELSE IF b<c<a
+ PRINT b, c, a
+ELSE IF c<b<a
+ PRINT c, b, a
+ELSE IF a<c<b
+ PRINT a, c, b
+ELSEIF b<a<c
+ PRINT b, a, c
+ELSE IF c<a<b
+ PRINT c, a, b
+ 
