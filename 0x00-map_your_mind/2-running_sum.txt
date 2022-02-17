@@ -1,0 +1,5 @@
+INPUT x
+LET sum=0
+WHILE (x>=0)
+  LET sum=sum+x
+  INPUT x
