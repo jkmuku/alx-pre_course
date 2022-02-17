@@ -1,0 +1,4 @@
+Program to sum the squares of 2 numbers
+Create a function sumsquares=a^2+b^2
+INPUT value for a,b
+PRINT (The sum of square) = sumsquares
